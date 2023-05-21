@@ -1,0 +1,2 @@
+## Introduction
+In this application I have developed visually appealing UI/UX designs, fetched data from an external API and integrated. This application has properly organized and maintainable code with proper architecture.
